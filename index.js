@@ -45,9 +45,9 @@
 // Congratulations 1_M_l337! !!, your score is 9001.
 // ```
 
-let contestant = prompt("1_M_l337!");
-let score =prompt("9001");
-console.log(`Congratulations + 1_M_l337! !! == your score is 9001`);
+// let contestant = prompt("1_M_l337!");
+// let score =prompt("9001");
+// console.log(`Congratulations + 1_M_l337! !! == your score is 9001`);
 
 
 
@@ -75,6 +75,26 @@ console.log(`Congratulations + 1_M_l337! !! == your score is 9001`);
 // Home/Memphis Grizzlies: 102
 // Visitors/GS Warriors: 23
 // ```
-let user1 =prompt("")
-let user2 =prompt("")
-let 
+let userHometeam =prompt(`Home Team Name`);
+if ("Grizzlies")
+  {
+   alert(`102`)
+}
+
+let userVisitingteam =prompt(`Visiting Team Name`);
+if ("GS Warriors")
+{
+    alert(`23`)
+    
+}
+if (`hometeamscore`) 
+{
+    (`==102`)    
+} else 
+{
+  (``)  
+} 
+
+let userScore1 = prompt(`Grizzlies Team score`);
+let userScore2 = prompt(`GS Warriors Team score`)
+
